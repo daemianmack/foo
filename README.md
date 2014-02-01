@@ -2,3 +2,4 @@ foo
 ===
 
 a test
+
