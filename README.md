@@ -1,5 +1,5 @@
 foo
 ===
 
-- [ ] a test
-- [x] not a test
+- a test
+- ~~not a test~~
