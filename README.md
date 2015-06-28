@@ -1,4 +1,4 @@
-foo
+Fancified README
 ===
 
 - [ ] a task list item
@@ -37,5 +37,3 @@ foo
 - ~~TODO: Desktop editor symlinks not currently visible.~~
 - ~~TODO: Fix post-import network connectivity issue.~~
 - ~~TODO: Drive this all from CI, triggered by Github commit notice.~~
-
-
